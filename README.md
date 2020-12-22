@@ -1,2 +1,3 @@
-UNION FOR EVERYONE\n 
+UNION FOR EVERYONE
+
 Usage of JAVA Swing Library
